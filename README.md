@@ -1,7 +1,7 @@
 # MyResults App
 
 Hi I am Aman Kaushik, this app is developed solely by me and I am the only person in my team. The project is an App made in Flutter and includes a Firestore database, in this App I have handled all kinds of exceptions/errors hence making this a compact and robust Application . This App is like a complete student App with various features to help students in their daily work.
-## Summary: An App to help you Evaluate, Track Assignments and Excel! and learn better with `Flash Cards`. Including a Firestore Database, rather than storing the data on your device!
+## Summary: An App to help you Evaluate, Track Assignments and Excel! and learn better with `Flash Cards` Including a Firestore Database, rather than storing the data on your device!
 
 
 
