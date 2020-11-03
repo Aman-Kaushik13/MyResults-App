@@ -16,6 +16,11 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 8. A professional About tab in the settings page which you can use to view the licenses!
 
 # Filled with even more features!
+
+<div> 
+   <image src="Screenshots/readme1.jpeg">
+   <image src="Screenshots/readme2.jpeg">
+</div>
    
 
 ## How to run?
