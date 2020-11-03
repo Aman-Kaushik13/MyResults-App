@@ -40,7 +40,8 @@ To run the app you should have an emulator or simulator, clone the github repo a
 # `flutter pub get` 
 # `flutter run`
 <div>
-<image src="Screenshots/console.jpg" >
+<image src="Screenshots/console.jpeg" >
+  </div>
 
 
 That's it! 
