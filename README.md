@@ -18,7 +18,17 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 # Filled with even more features!
 
 <div> 
-   <image src="Screenshots/readme1.jpeg" height=500 width=500>
+   
+   <image src="Screenshots/readme7.jpeg" height=500 width=500>
+   
+   <image src="Screenshots/readme6.jpeg" height=500 width=500>
+   
+   <image src="Screenshots/readme5.jpeg" height=500 width=500>
+   
+   <image src="Screenshots/readme4.jpeg" height=500 width=500>
+  
+   <image src="Screenshots/readme3.jpeg" height=500 width=500>
+ <image src="Screenshots/readme1.jpeg" height=500 width=500>
    <image src="Screenshots/readme2.jpeg" height=500 width=500>
 </div>
    
