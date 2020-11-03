@@ -51,4 +51,6 @@ It was quite a fun project to build myself. The App is made in Dart using the fl
 
 
 # Team Name - Flutter Team
-
+<div> 
+  <img src="assets/logo.png">
+</div>
