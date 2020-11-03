@@ -36,8 +36,10 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 ## How to run?
 ----
 
-To run the app you should have an emulator or simulator, clone the github repo and navigate to the project's `lib` folder and run the following command: 
+To run the app you should have an emulator or simulator, clone the github repo and navigate to the project's `lib` folder and run the following command:
+# `flutter pub get` 
 # `flutter run`
+
 
 That's it! 
 # Also 
