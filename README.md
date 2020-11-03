@@ -22,6 +22,13 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
   padding: 5px;"> 
    
    <image src="Screenshots/Areadme5.jpg" >
+   <image src="Screenshots/Areadme7.jpg" >
+   <image src="Screenshots/Areadme6.jpg" >
+   <image src="Screenshots/Areadme4.jpg" >
+   <image src="Screenshots/Areadme3.jpg" >
+   <image src="Screenshots/Areadme2.jpg" >
+   <image src="Screenshots/Areadme1.jpg" >
+   
 
 </div>
    
