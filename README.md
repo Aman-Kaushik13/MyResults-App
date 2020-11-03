@@ -49,3 +49,6 @@ That's it!
 # Also 
 It was quite a fun project to build myself. The App is made in Dart using the flutter framework. The App was developed for the Tech With Tim `Code Jam` and I enjoyed making it, I hope you like my project too! Thanks!
 
+
+# Team Name - Flutter Team
+
