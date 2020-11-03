@@ -21,7 +21,7 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
   width: 33.33%;
   padding: 5px;"> 
    
-   <image src="Screenshots/Areadme5.jpeg" >
+   <image src="Screenshots/Areadme5.jpg" >
 
 </div>
    
