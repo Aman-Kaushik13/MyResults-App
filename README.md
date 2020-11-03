@@ -21,17 +21,8 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
   width: 33.33%;
   padding: 5px;"> 
    
-   <image src="Screenshots/readme7.jpeg" height=250 width=250>
-   
-   <image src="Screenshots/readme6.jpeg" height=250 width=250>
-   
-   <image src="Screenshots/readme5.jpeg" height=250 width=250>
-   
-   <image src="Screenshots/readme4.jpeg" height=250 width=250>
-  
-   <image src="Screenshots/readme3.jpeg" height=250 width=250>
- <image src="Screenshots/readme1.jpeg" height=250 width=250>
-   <image src="Screenshots/readme2.jpeg" height=250 width=250>
+   <image src="Screenshots/Areadme5.jpeg" >
+
 </div>
    
 
