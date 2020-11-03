@@ -17,7 +17,9 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 
 # Filled with even more features!
 
-<div> 
+<div style="float: left;
+  width: 33.33%;
+  padding: 5px;"> 
    
    <image src="Screenshots/readme7.jpeg" height=250 width=250>
    
