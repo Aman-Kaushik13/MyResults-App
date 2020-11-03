@@ -14,6 +14,7 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 6. The App helps your Excel in your studies!
 7. Also a settings page to allow you to change the settings of the App! Dark mode, notifications...
 8. A professional About tab in the settings page which you can use to view the licenses!
+9. Firestore database as well
 
 # Filled with even more features!
 
