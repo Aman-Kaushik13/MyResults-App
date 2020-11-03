@@ -49,7 +49,7 @@ class _AssignmentPageState extends State<AssignmentPage> {
         ),
         backgroundColor: Color(0xFF242423),
         title: Text(
-          "Assingments",
+          "Assignments",
           textAlign: TextAlign.start,
           style: textStyle.headline5.copyWith(
             color: Color(0xffF5CB5C),
