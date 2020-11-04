@@ -35,7 +35,7 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 
 </div>
    
-# Note: You can click on the Genreate Data Button to generate some Dummy data (Only for testing)
+# Note: You can click on the Generate Data Button to generate some Dummy data (Only for testing)
 ## How to run?
 ----
 
