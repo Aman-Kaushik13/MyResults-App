@@ -2,7 +2,7 @@
 
 Hi I am Aman Kaushik, this app is developed single-handedly by me, out of sheer passion. The project is an App made in Flutter and includes a Firestore database, in this App I have handled all kinds of exceptions/errors hence making this a compact and robust Application . An App which reords  the performance of students and gives instant access to marks /grades obtained through out the academic session ,a kind of virtual report card or performance tracking app  which  helps them evavluate thier prefomance by of graphs and charts.this wil help students as well schools to integerate thoer student evaluation to an online app system . additionally this would alsoowork as a planner or school diary. For schools, who can upgrade their student evaluation system online for easy access by click on their mobile devices.
 
-## Summary: An App for students as well as Schools  to evaluate/ Track Assignments and access record of theier academic erformance by click of a button  `Flash Cards` Including a Firestore Database, rather than storing the data on your device!
+## Summary: An App for students as well as Schools  to evaluate/ Track Assignments and access record of theier academic erformance by click of a button  `Flash Cards` Including a Firestore Database, rather than storing the data on your device!  AN APP FOR SCHOOLS AND STUDENTS TO TAKE THEIR STUDENT  EVALAUATION SYSTEM ONLINE AND MAKE IT ACCESSIBLE BY CLICK OF A BUTTon to teachers as well as students .
 
 
 
