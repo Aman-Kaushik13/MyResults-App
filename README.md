@@ -1,13 +1,15 @@
 # MyResults App
 
-Hi I am Aman Kaushik, this app is developed solely by me and I am the only person in my team. The project is an App made in Flutter and includes a Firestore database, in this App I have handled all kinds of exceptions/errors hence making this a compact and robust Application . This App is like a complete student App with various features to help students in their daily work.
-## Summary: An App to help you Evaluate, Track Assignments and Excel! and learn better with `Flash Cards` Including a Firestore Database, rather than storing the data on your device!
+Hi I am Aman Kaushik, this app is developed single-handedly by me, out of sheer passion. The project is an App made in Flutter and includes a Firestore database, in this App I have handled all kinds of exceptions/errors hence making this a compact and robust Application . An App which reords  the performance of students and gives instant access to marks /grades obtained through out the academic session ,a kind of virtual report card or performance tracking app  which  helps them evavluate thier prefomance by of graphs and charts.this wil help students as well schools to integerate thoer student evaluation to an online app system . additionally this would alsoowork as a planner or school diary. For schools, who can upgrade their student evaluation system online for easy access by click on their mobile devices.
+
+## Summary: An App for students as well as Schools  to evaluate/ Track Assignments and access record of theier academic erformance by click of a button  `Flash Cards` Including a Firestore Database, rather than storing the data on your device!
+
 
 
 
 # Features of the App
-1. Easily Manage your Subject Marks
-2. Easily Evaluate your Marks 
+1. Easily access and enter Subject Marks
+2. Easily Evaluate your performance 
 3. Get various chart representations of your Grades
 4. Track your Assignments and be able to see your Progress
 5. Create, Edit and Delete your Subjects easily
