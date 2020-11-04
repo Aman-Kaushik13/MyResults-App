@@ -10,11 +10,12 @@ Hi I am Aman Kaushik, this app is developed solely by me and I am the only perso
 2. Easily Evaluate your Marks 
 3. Get various chart representations of your Grades
 4. Track your Assignments and be able to see your Progress
-5. Create Flash Cards to learn better and Excel in Exams 
-6. The App helps your Excel in your studies!
-7. Also a settings page to allow you to change the settings of the App! Dark mode, notifications...
-8. A professional About tab in the settings page which you can use to view the licenses!
-9. Firestore database as well
+5. Create, Edit and Delete your Subjects easily
+6. Create Flash Cards to learn better and Excel in Exams 
+7. The App helps your Excel in your studies!
+8. Also a settings page to allow you to change the settings of the App! Dark mode, notifications...
+9. A professional About tab in the settings page which you can use to view the licenses!
+10. Firestore database as well
 
 # Filled with even more features!
 
