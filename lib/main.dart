@@ -4,12 +4,13 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
+import 'package:showcaseview/showcaseview.dart';
 
-void main() async{
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp().whenComplete(() {
-      print("completed");
-    });
+    print("completed");
+  });
   runApp(MyApp());
 }
 
@@ -37,11 +38,17 @@ class MaterialAppTheme extends StatelessWidget {
     final appTheme = Provider.of<ThemeChanger>(context);
 
     return MaterialApp(
-      color: Colors.red,
-      theme: appTheme.getTheme(),
-      debugShowCheckedModeBanner: false,
-      home: TabPage(),
-    );
+        color: Colors.red,
+        theme: appTheme.getTheme(),
+        debugShowCheckedModeBanner: false,
+        home: ShowCaseWidget(
+          builder: Builder(
+            builder: (context) => TabPage(),
+          ),
+          autoPlay: true,
+          autoPlayDelay: Duration(seconds: 5),
+          autoPlayLockEnable: true,
+        ));
   }
 }
 
