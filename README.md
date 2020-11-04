@@ -46,7 +46,8 @@ To run the app you should have an emulator or simulator, clone the github repo a
 <image src="Screenshots/console.jpeg" >
   </div>
 
-
+You can also download the app from this google drive link: https://drive.google.com/file/d/1M29Urkf4IjC44Ei6iMQrPpqrZUnJKUZe/view?usp=sharing
+after downloading connect your device through a USB cable, and then drag the downloaded Apk file into your Device's storage, then click and install it!
 That's it! 
 # Also 
 It was quite a fun project to build myself. The App is made in Dart using the flutter framework. The App was developed for the Tech With Tim `Code Jam` and I enjoyed making it, I hope you like my project too! Thanks!
