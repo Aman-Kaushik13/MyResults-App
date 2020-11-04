@@ -46,7 +46,7 @@ To run the app you should have an emulator or simulator, clone the github repo a
 <image src="Screenshots/console.jpeg" >
   </div>
 
-You can also download the app from this google drive link: https://drive.google.com/file/d/1M29Urkf4IjC44Ei6iMQrPpqrZUnJKUZe/view?usp=sharing
+You can also download the app from this google drive link: https://drive.google.com/file/d/1EaLsJa__JNb4iEmNoW9pWv7btTcnm4Xl/view?usp=sharing
 after downloading connect your device through a USB cable, and then drag the downloaded Apk file into your Device's storage, then click and install it!
 That's it! 
 # Also 
