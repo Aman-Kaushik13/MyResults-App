@@ -1,5 +1,7 @@
 import 'package:cool_project/pages/tabPages/models/model.dart';
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import 'package:showcaseview/showcaseview.dart';
 
 import 'models/tab_navigation_item.dart';
 
@@ -11,7 +13,7 @@ class TabPage extends StatefulWidget {
 
 class _TabPageState extends State<TabPage> {
   int currentIndex = 0;
-
+  GlobalKey buttonKey = GlobalKey();
   _addSubjects() {
     setState(() {
       Map<String, dynamic> _subj = {
@@ -174,28 +176,50 @@ class _TabPageState extends State<TabPage> {
   @override
   Widget build(BuildContext context) {
     final textStyle = Theme.of(context).textTheme;
+    SharedPreferences preferences;
 
     Assignment.completed.get().then((val) => _completed = val.docs[0]);
 
+    displayShowCase() async {
+      preferences = await SharedPreferences.getInstance();
+      bool visibility = preferences.getBool("displayShowcase");
+
+      if (visibility == null) {
+        preferences.setBool("displayShowcase", false);
+        return true;
+      }
+
+      return false;
+    }
+
+    displayShowCase().then((value) {
+      if (value) {
+        ShowCaseWidget.of(context).startShowCase([buttonKey]);
+      }
+    });
     return Scaffold(
-      floatingActionButton: RawMaterialButton(
-        elevation: 10.0,
-        fillColor: Color(0xFF242423),
-        splashColor: Color(0xffF5CB5C),
-        onPressed: () {
-          _addSubjects();
-          _addAssignments();
-          _addCompleted();
-          _addFlashCards();
-        },
-        child: Padding(
-          padding: const EdgeInsets.all(10.0),
-          child: Text(
-            "Generate Data",
-            style: textStyle.button.copyWith(color: Color(0xffF5CB5C)),
+      floatingActionButton: Showcase(
+        key: buttonKey,
+        description: 'Tap to generate dummy data to see how the app works!',
+        child: RawMaterialButton(
+          elevation: 10.0,
+          fillColor: Color(0xFF242423),
+          splashColor: Color(0xffF5CB5C),
+          onPressed: () {
+            _addSubjects();
+            _addAssignments();
+            _addCompleted();
+            _addFlashCards();
+          },
+          child: Padding(
+            padding: const EdgeInsets.all(10.0),
+            child: Text(
+              "Generate Data",
+              style: textStyle.button.copyWith(color: Color(0xffF5CB5C)),
+            ),
           ),
+          shape: const StadiumBorder(),
         ),
-        shape: const StadiumBorder(),
       ),
       body: IndexedStack(
         index: currentIndex,
