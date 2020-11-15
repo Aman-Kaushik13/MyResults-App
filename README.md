@@ -1,4 +1,5 @@
 # MyResults App
+<img src="https://camo.githubusercontent.com/fe892501f5aa89a263d51732d4c061ffa7040a0ee6c5d4cb16dc4b9d77c0d4b5/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3533343639333730353434323133313938382f3733383435373937393636353235323336322f62616e6e65726269672e706e67">
 
 Hi I am Aman Kaushik, this app is developed single-handedly by me, out of sheer passion. The project is an App made in Flutter and includes a Firestore database, in this App I have handled all kinds of exceptions/errors hence making this a compact and robust Application . An App which records the performance of students and gives instant access to marks /grades obtained through out the academic session ,a kind of virtual report card or performance tracking app  which  helps them evaluate their performance by graphs and charts.This wil help students as well schools to integerate their student evaluation to an online app system, additionally this would also work as a planner or school diary. For schools, who can upgrade their student evaluation system online for easy access by click on their mobile devices.
 
