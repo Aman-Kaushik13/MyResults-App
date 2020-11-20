@@ -8,7 +8,7 @@ Hi I am Aman Kaushik, this app is developed single-handedly by me, out of sheer 
 
 
 
-# Features of the App <img src="assets/book.png"height="200" width="200">
+# Features of the App <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" height="120px">
 1. Easily access and enter Subject Marks
 2. Easily Evaluate your performance 
 3. Get various chart representations of your Grades
