@@ -8,7 +8,7 @@ Hi I am Aman Kaushik, this app is developed single-handedly by me, out of sheer 
 
 
 
-# Features of the App
+# Features of the App <img src="assets/book.png">
 1. Easily access and enter Subject Marks
 2. Easily Evaluate your performance 
 3. Get various chart representations of your Grades
@@ -52,7 +52,7 @@ To run the app you should have an emulator or simulator, clone the github repo a
 You can also download the app from this google drive link: https://drive.google.com/file/d/1EaLsJa__JNb4iEmNoW9pWv7btTcnm4Xl/view?usp=sharing
 after downloading connect your device through a USB cable, and then drag the downloaded Apk file into your Device's storage, then click and install it!
 That's it! 
-# Also 
+# Also <img src="assets/excel.png">
 It was quite a fun project to build myself. The App is made in Dart using the flutter framework. The App was developed for the Tech With Tim `Code Jam` and I enjoyed making it, I hope you like my project too! Thanks!
 
 
