@@ -52,7 +52,7 @@ To run the app you should have an emulator or simulator, clone the github repo a
 You can also download the app from this google drive link: https://drive.google.com/file/d/1EaLsJa__JNb4iEmNoW9pWv7btTcnm4Xl/view?usp=sharing
 after downloading connect your device through a USB cable, and then drag the downloaded Apk file into your Device's storage, then click and install it!
 That's it! 
-# Also <img src="assets/excel.png" height="80px">
+# Also <img src="assets/excelence.png" height="80px">
 It was quite a fun project to build myself. The App is made in Dart using the flutter framework. The App was developed for the Tech With Tim `Code Jam` and I enjoyed making it, I hope you like my project too! Thanks!
 
 
